@@ -1,27 +1,29 @@
 # ZJE Collection
 
-Welcome — this site is generated from the repository's ZJE courses folder, from my own notes. If you have any further question, find me in xhs@生成一只头上戴着花花的小momo；or via email: c1556613010@outlook.com
+Welcome — this site is generated from the repository's ZJE courses folder, from my own notes. This website is open-sourced, which means you can feel free to download or fork. 
+
+If you have any further question, find me in xhs@生成一只头上戴花花的小momo；or via email: c1556613010@outlook.com and you are very welcomed to contribute to this repo, like filling the gap of other courses.
 
 Credit to tz and yc.
 
 Do not blame me if these notes are not good! You can tell me and I will fix the errors.
 
-Browse the sections below:
+Browse the sections below, you can go through everything online:
 
-- [BG2_sum](BG2_sum/)
-- [Code_Cheetsheet](Code_Cheetsheet/)
-- [GP2_sum](GP2_sum/)
-- [IBMS3_full](IBMS3_full/)
-- [IID_4_full](IID_4_full/)
-- [MBE3_sum](MBE3_sum/)
-- [PoN3_full](PoN3_full/)
+- [Coding](Code_Cheetsheet/)
+- [BG2](BG2_sum/)
+- [GP2](GP2_sum/)
+- [IBMS3](IBMS3_full/)
+- [MBE3](MBE3_sum/)
+- [PoN3](PoN3_full/)
+- [IID_4](IID_4_full/)
 
 Notes:
 
 - PDFs are kept in-place; check file sizes before publishing widely.
 - Filenames with spaces are preserved; consider renaming for cleaner URLs.
 
-## Click to Downloads
+## Click to Download Here!
 
 - Download the entire repository as a ZIP: [Download repo ZIP](https://github.com/CHENyiru3/Yiru_study_in_zje/archive/refs/heads/main.zip)
 - Per-folder ZIP downloads will be available here after deployment:
